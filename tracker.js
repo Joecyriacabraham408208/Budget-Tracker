@@ -1,5 +1,5 @@
 // JavaScript extracted from Budget11.html <script> block
-// ... All JS from lines 2395-3167 ... 
+ 
 
         // Initialize the application
         class BudgetTracker {
